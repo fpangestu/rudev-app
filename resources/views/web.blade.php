@@ -90,7 +90,10 @@
                     <a class="nav-link page-scroll" href="#contact">CONTACT</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#LOGIN">LOGIN</a>
+                    <a class="nav-link page-scroll" href="/home">LOGIN</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="/register">REGISTRASI</a>
                 </li>
             </ul>
            

@@ -75,14 +75,9 @@
                     <a class="nav-link page-scroll" href="#projects">SCHEDULE </a>
                 </li>
 
-                <!-- Dropdown Menu -->          
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT</a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#ictRudev"><span class="item-text">ICT RUDEV</span></a>
-                        <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="#ictSubmite"><span class="item-text">ICT SUBMITE</span></a>
-                    </div>
+                <!-- Dropdown Menu -->         
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#contact">ICT SUBMIT</a>
                 </li>
                 <!-- end of dropdown menu -->
 
@@ -110,17 +105,8 @@
                     <div class="col-lg-12">
                         <div class="text-container">
                             <div class="banner_content">
-                                <h1><span id="js-rotating">ICT FOR RURAL DEVELOPMENT
-                                    DIGITAL ECONOMY AND HUMAN RESOURCE DEVELOPMENT,ICT_SUBMITE</span></h1>
-                                <p class="p-heading p-large">IC-ICT RuDev 2020 is the 2nd International conference organized by
-                                    ICT Research and Human Resource Development Agency,
-                                    Ministry of Communications and Informatics (MCI), Republic of Indonesia.
-                                    IC-ICTRuDev is intended to gather researchers, academics,
-                                    engineers, scholars and practitioners to present and exchange recent ideas,
-                                    innovations and developments regarding the use and implications of ICT in rural development,
-                                    focusing on Digital Economy and Human Resources sector.
-                                    The conference is technically co-sponsored by IEEE Indonesia Section,
-                                    selected papers will be published in IEEEXplore (Scopus Indexed).</p>
+                                <h1><span >ICT_SUBMIT</span></h1>
+                                <p class="p-heading p-large">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus aspernatur sint nobis molestiae repellat eos ullam cumque cum? Dolore ex, repellat impedit itaque iste eos omnis quaerat autem saepe ratione?.</p>
                                 <a class="btn-solid-lg page-scroll" href="#registrasi">REGISTRASI</a>
                             </div>
                         </div>
@@ -136,7 +122,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>KEYNOTE SPEAKERS</h2>
+                    <h2>KEYNOTE</h2>
                     <p class="p-heading"></p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -243,7 +229,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>SPEAKERS</h2>
+                    <h2>KEYNOTE  SPEAKERS</h2>
                     <p class="p-heading"></p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -253,7 +239,9 @@
                     <!-- Team Member -->
                     <div class="team-member">
                         <div class="image-wrapper">
+                        <a class="popup-with-move-anim" href="#speaker4">
                             <img class="img-fluid" src="images/team-1.png" alt="alternative">
+                         </a>
                         </div> <!-- end of image-wrapper -->
                         <p class="p-large">John Whitelong</p>
                         <p class="job-title">General Manager</p>
@@ -277,7 +265,9 @@
                     <!-- Team Member -->
                     <div class="team-member">
                         <div class="image-wrapper">
+                        <a class="popup-with-move-anim" href="#speaker3">
                             <img class="img-fluid" src="images/team-2.png" alt="alternative">
+                        </a>
                         </div> <!-- end of image wrapper -->
                         <p class="p-large">Veronique Smith</p>
                         <p class="job-title">Business Developer</p>
@@ -301,7 +291,9 @@
                     <!-- Team Member -->
                     <div class="team-member">
                         <div class="image-wrapper">
-                            <img class="img-fluid" src="images/team-3.png" alt="alternative">
+                        <a class="popup-with-move-anim" href="#speaker2">
+                            <img class="img-fluid" src="images/team-3.png" alt="alternative" >
+                        </a>
                         </div> <!-- end of image wrapper -->
                         <p class="p-large">Chris Zimerman</p>
                         <p class="job-title">Online Marketer</p>
@@ -325,7 +317,8 @@
                     <!-- Team Member -->
                     <div class="team-member">
                         <div class="image-wrapper">
-                            <img class="img-fluid" src="images/team-4.png" alt="alternative">
+                        <a class="popup-with-move-anim" href="#speaker1"><div class="element-item-overlay"><span></span></div>
+                            <img class="img-fluid" src="images/team-4.png" alt="alternative" ></a>
                         </div> <!-- end of image wrapper -->
                         <p class="p-large">Mary Villalonga</p>
                         <p class="job-title">Community Manager</p>
@@ -351,6 +344,99 @@
         </div> <!-- end of container -->
     </div> <!-- end of basic-2 -->
     <!-- end of team -->
+
+
+    <!-- Lightbox -->
+    <div id="speaker1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/Johnny_G.jpg" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Online Banking</h3>
+                <hr class="line-heading">
+                <h6>Strategy Development</h6>
+                <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+                <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                    <p class="testimonial-author">General Manager</p>
+                </div>
+                <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+     <!-- Lightbox -->
+     <div id="speaker2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/Johnny_G.jpg" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Online Banking</h3>
+                <hr class="line-heading">
+                <h6>Strategy Development</h6>
+                <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+                <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                    <p class="testimonial-author">General Manager</p>
+                </div>
+                <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+     <!-- Lightbox -->
+     <div id="speaker3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/Johnny_G.jpg" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Online Banking</h3>
+                <hr class="line-heading">
+                <h6>Strategy Development</h6>
+                <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+                <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                    <p class="testimonial-author">General Manager</p>
+                </div>
+                <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+     <!-- Lightbox -->
+     <div id="speaker4" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/team-1.png" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Online Banking</h3>
+                <hr class="line-heading">
+                <h6>Strategy Development</h6>
+                <p>Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current needs</p>
+                <p>By offering the best professional services and quality products in the market. Don't hesitate and get in touch with us.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Need a solid foundation for your business growth plans? Aria will help you manage sales and meet your current requirements.</p>
+                    <p class="testimonial-author">General Manager</p>
+                </div>
+                <a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
 
 
     <!-- Project Lightboxes -->
@@ -551,7 +637,7 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <div class="section-title">INTRO</div>
-                        <h2>BECOME A PLENARY SPEAKER AT ICTRUDEV 2020</h2>
+                        <h2>BECOME A PLENARY SPEAKER AT ICT SUBMIT 2021</h2>
                         <p>With the theme “ICT Development for Rural Development: Digital Economy and 
                             Human Resource”, IC-ICTRuDev 2020 will focus on exploring the ways in which
                             Information and Communication Technology would be a driver for rural developments,
@@ -680,11 +766,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="grid ">
+                    <div class="grid" width="100%">
                         <div class="element-item IM1">
                             <a class="popup-with-move-anim" href="#project-1"><div class="element-item-overlay"><span>Online Banking</span></div><img src="images/project-1.jpg" alt="alternative"></a>
                         </div>
-                        <div class="element-item DAY1">
+                        <div class="element-item DAY1" >
                             <a class="popup-with-move-anim" href="#project-2"><div class="element-item-overlay"><span>Classic Industry</span></div><img src="images/project-2.jpg" alt="alternative"></a>
                         </div>
                         <div class="element-item DAY2">

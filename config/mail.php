@@ -41,14 +41,18 @@ return [
             'encryption' => env('MAIL_ENCRYPTION', 'tls'),
             'username' => env('MAIL_USERNAME'),
             'password' => env('MAIL_PASSWORD'),
+<<<<<<< HEAD
             'timeout' => null,
             'auth_mode' => null,
+=======
+>>>>>>> 2339f7a0bddd9bb5e8f5bca638673e13ec5f190e
         ],
 
         'ses' => [
             'transport' => 'ses',
         ],
 
+<<<<<<< HEAD
         'mailgun' => [
             'transport' => 'mailgun',
         ],
@@ -57,6 +61,8 @@ return [
             'transport' => 'postmark',
         ],
 
+=======
+>>>>>>> 2339f7a0bddd9bb5e8f5bca638673e13ec5f190e
         'sendmail' => [
             'transport' => 'sendmail',
             'path' => '/usr/sbin/sendmail -bs',

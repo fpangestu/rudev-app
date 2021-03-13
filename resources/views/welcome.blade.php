@@ -7,7 +7,11 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
+<<<<<<< HEAD
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
+=======
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+>>>>>>> 2339f7a0bddd9bb5e8f5bca638673e13ec5f190e
 
         <!-- Styles -->
         <style>

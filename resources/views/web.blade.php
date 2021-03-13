@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>ICT RUDEV</title>
+    <title>ICT-SUMMIT</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext" rel="stylesheet">
@@ -105,7 +105,7 @@
                     <div class="col-lg-12">
                         <div class="text-container">
                             <div class="banner_content">
-                                <h1><span >ICT_SUBMIT</span></h1>
+                                <h1><span >ICT-SUMMIT</span></h1>
                                 <p class="p-heading p-large">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus aspernatur sint nobis molestiae repellat eos ullam cumque cum? Dolore ex, repellat impedit itaque iste eos omnis quaerat autem saepe ratione?.</p>
                                 <a class="btn-solid-lg page-scroll" href="#registrasi">REGISTRASI</a>
                             </div>

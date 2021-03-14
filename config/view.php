@@ -33,8 +33,6 @@ return [
         realpath(storage_path('framework/views'))
     ),
 
-<<<<<<< HEAD
-=======
     /*
      |--------------------------------------------------------------------------
      | Blade View Modification Checking
@@ -48,5 +46,4 @@ return [
 
     'expires' => env('VIEW_CHECK_EXPIRATION', true),
 
->>>>>>> 2339f7a0bddd9bb5e8f5bca638673e13ec5f190e
 ];

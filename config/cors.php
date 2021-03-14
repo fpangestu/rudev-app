@@ -24,16 +24,13 @@ return [
     'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
-
-<<<<<<< HEAD
+    
     'exposed_headers' => [],
 
     'max_age' => 0,
-=======
     'exposed_headers' => false,
 
     'max_age' => false,
->>>>>>> 2339f7a0bddd9bb5e8f5bca638673e13ec5f190e
 
     'supports_credentials' => false,
 

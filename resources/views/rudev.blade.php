@@ -117,8 +117,8 @@
                     <li><a class="nav-link" href="#importantdate">Date</a></li>
                     <li><a class="nav-link" href="#venue">Venue</a></li>
                     <li><a class="nav-link" href="#organizer">Committees</a></li>
-                    <li><a class="nav-link" href="#registration">Registration</a></li>
-                    <li><a class="nav-link" href="login.php">Login</a></li>
+                    <!-- <li><a class="nav-link" href="#registration">Registration</a></li>
+                    <li><a class="nav-link" href="login.php">Login</a></li> -->
 
                 </ul>
             </div>
@@ -971,134 +971,8 @@
     </section>
     
     <!-- Registration -->
-    <section id="registration" class="section-registration section grey-bg border-top-grey">
-        <div class="container">
-            <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
-                <div class="col-md-8 col-lg-8 text-center">
-                    <h2 class="font-alt">Registration</h2>
-                </div>
-            </div>
-            <div class="tab-style-1">
-
-                <ul class="nav nav-fill" id="myTab" role="tablist">
-                    <li class="nav-item">
-                        <a class="active" id="registrationtab-tab" data-toggle="tab" href="#registrationTabFee" role="tab" aria-controls="registrationTabFee" aria-selected="true">Fee
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a id="profile-tab" data-toggle="tab" href="#registrationTabForm" role="tab" aria-controls="registrationTabForm" aria-selected="false">
-                            Form
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="tab-content" id="myTabContent">
-                <div class="tab-pane p-20px-t fade show active" id="registrationTabFee" role="tabpanel" aria-labelledby="importantdatetab-tab">
-                    <div class="row">
-                        <div class="col-md-12 sm-m-30px-t">
-                            <table align="center" style="font-size: 14px;padding: 0px; border-collapse: separate; border-spacing: 7px;">
-                                <tbody>
-                                <tr style="border-bottom: 1px solid black; border: 1px solid black; font-weight: bolder;">
-                                    <td style="width: 31%;" align="left" valign="middle" >Registration Fee</td>
-                                    <td style="width: 36%;" align="left" valign="middle" >Foreign Participant</td>
-                                    <td style="width: 33%;" align="left" valign="middle" >Local Participant</td>
-                                </tr>
-                                <tr style="border-bottom: 1px solid black;">
-                                    <td align="left" valign="middle" >Professional</td>
-                                    <td align="left" valign="top" >USD 325/<br>
-                                        USD 300*</td>
-                                    <td align="left" valign="top" >IDR 3,000,000/<br>
-                                        IDR 2,500,000*</td>
-                                </tr>
-                                <tr style="border-bottom: 1px solid black;">
-                                    <td align="left" valign="middle" >Student</td>
-                                    <td align="left" valign="top" >USD 275/<br>
-                                        USD 250*</td>
-                                    <td align="left" valign="top" >IDR 2,500,000/<br>
-                                        IDR 2,250,000*</td>
-                                </tr>
-                                <tr>
-                                    <td align="left" valign="middle" >Non-Presenter</td>
-                                    <td align="left" valign="top" >USD 100</td>
-                                    <td align="left" valign="top" >IDR 1,000,000</td>
-                                </tr>
-                                <tr>
-                                    <td colspan="3" align="left"><br/>*) For IEEE member</td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </div> <!-- col -->
-
-                    </div> <!-- col -->
-                </div>
-                <div class="tab-pane p-20px-t " id="registrationTabForm" role="tabpanel" aria-labelledby="importantdatetab-tab">
-                    <style>
-                        .formRegis{
-                            left:auto;
-                            text-align:left;
-
-                        }
-
-                    </style>
-                    <script src="static/regist.js"></script>
-                    <div class="row justify-content-center " >
-                        <div id="formRegis" class="formRegis ">
-                            <form id="Form_Reg" >
-                                <div class="form-group">
-                                    <label >Registration As :</label>
-                                    <select onChange="loadPage('formRegis2','q=5862394y782323t8&val='+this.value)" id="jenis" class="form-control form-control-sm" >
-                                        <option onChange="" >Select One</option>
-                                        <option value="participant">Presenter</option>
-                                        <option value="non-participant">Participant (Non Presenter)</option>
-                                    </select>
-                                    <small id="emailHelp" class="form-text text-muted">*Choose Presenter ONLY if you wish to present a paper !</small>
-                                </div>
-                                <div id="formRegis2"></div>
-                            </form>
-                        </div><!-- Form Regist -->
-                    </div>
-                </div><!-- registrationTabForm -->
-            </div>
-        </div>
-    </section>
     
-
-<!-- Participants -->
-    <section id="Participants" class="section testimonial-section grey-bg border-top-grey">
-        <div class="container">
-            <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
-                <div class="col-md-12 col-lg-12 text-center">
-                    <h2 class="font-alt">	
-                        Participants
-                    </h2>
-                    <!-- Organizer -->
-                    <div class="clients-list clients-border clients-col-1" >
-                        <ul>
-                            <li>
-                                <strong>
-                                    <span style="text-align: center; font-size: 21px;">Paper Presenter </span>
-                                </strong><br>
-                                *login first to download invitation letter and uploading payment receipt <br>
-                                * <a href="https://k-cloud.kominfo.go.id/s/ictrudev2018">Download Schedule of Paper Presentation and Materials </a>                              
-                                <div style="text-align: left; font-size: 14px;">
-                                    <br/>
-                                    
-                                </div>
-                            </li>
-                            <li>
-                                <strong><span style="text-align: center; font-size: 21px;">Participant</span></strong>
-                                <div style="text-align: left; font-size: 14px;">
-                                    <table width="95%" border="0">
-                                        
-                                    </table>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div> <!-- col -->
-            </div>
-        </div>
-    </section>
+    
 </main>
 <!-- Main End -->
 

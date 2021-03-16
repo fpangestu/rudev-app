@@ -388,7 +388,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(12, 11, 10, 0.5);
+  /* background-color: rgba(12, 11, 10, 0.5); */
   position: absolute;
   top: 0;
   right: 0;
@@ -403,7 +403,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   bottom: 0;
   top: 0;
-  left: 0;
+  left: 60%;
   right: 0;
 }
 
@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 80px;
   font-weight: 700;
 }
 
@@ -428,6 +428,7 @@ h1, h2, h3, h4, h5, h6 {
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
   color: #fff;
+  font-size: 25px;
 }
 
 #hero .carousel-inner .carousel-item {
@@ -484,7 +485,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-menu, #hero .btn-book {
   font-weight: 600;
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 1px;
   text-transform: uppercase;
   display: inline-block;
@@ -512,7 +513,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 1024px) {
   #hero p {
-    width: 50%;
+    width: 90%;
   }
   #hero .carousel-control-prev, #hero .carousel-control-next {
     width: 5%;
@@ -876,7 +877,9 @@ section {
 }
 
 .menu .menu-content::after {
-  content: "......................................................................" "...................................................................." "....................................................................";
+  content: "......................................................................"
+ "...................................................................."
+ "....................................................................";
   position: absolute;
   left: 20px;
   right: 0;

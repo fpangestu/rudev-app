@@ -14,12 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('portal');
-});
-
-Route::get('/rudev', function () {
     return view('rudev');
 });
+
+// Route::get('/rudev', function () {
+//     return view('rudev');
+// });
 
 Route::get('/summit', function () {
     return view('web');

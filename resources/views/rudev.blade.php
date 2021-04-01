@@ -138,9 +138,9 @@
                 <div class="col-md-6 ">
                     <div class="home-left">
                         <span>&nbsp;</span>
-                        <h1 class="font-alt">International Conference on ICT for Rural Development</h1>
-                        <p style="font-weight: 500;">ICT RuDev is the 1<sup>st</sup> annual conference organized by ICT Research and Human Resource Development Agency, Ministry of Communications and Informatics (<a href="https://www.kominfo.go.id/" target="_blank" style="font-weight: bold; color: #003c76;">Kemkominfo</a>), Republic of Indonesia. IC-ICTRuDev is intended to gather researchers, academics, engineers, scholars and practitioners to present and exchange recent ideas, innovations and developments regarding the use and implications of ICT in rural development. The conference is technically co-sponsored by IEEE Indonesia Section, and the accepted papers would be considered to be published in IEEEXplore.</p>
-                        <p style="font-weight: bold">IEEE Conference ID: <a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/44842" style="color: #003c76" target="_blank">#44842</a></p>
+                        <h1 class="font-alt">ICT for Rural Development: Digital Economy and Human Resource Development </h1>
+                        <p style="font-weight: 500;">2<sup>nd</sup> 2021 ICT RuDev is the second international conference on ICT Rural for Development organized by ICT Research and Human Resource Development Agency, Ministry of Communications and Informatics (<a href="https://www.kominfo.go.id/" target="_blank" style="font-weight: bold; color: #003c76;">Kemkominfo</a>), Republic of Indonesia. IC-ICTRuDev is intended to gather researchers, academics, engineers, scholars and practitioners to present and exchange recent ideas, innovations and developments regarding the use and implications of ICT in rural development. The conference is technically co-sponsored by IEEE Indonesia Section.</p>
+                        <p style="font-weight: bold">IEEE Conference ID: <a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/50538" style="color: #003c76" target="_blank">#50538</a></p>
                         <a href="http://ieee.id/"><img src="static/img/IEEE%20indo%20sponsor.png"/></a>
 
                     </div>
@@ -148,15 +148,19 @@
                 <div class="col-md-6">
 
                     <div class="mySlides fade">
-                        <img src="static/img/balicolage.png" style="width:100%">
+                        <img src="static/img/1.png" style="width:200%; max-width: 150%;">
                     </div>
 
                     <div class="mySlides fade">
-                        <img src="static/img/balicolage2A.png" style="width:100%">
+                        <img src="static/img/2.png" style="width:200%; max-width: 150%;">
                     </div>
 
                     <div class="mySlides fade">
-                        <img src="static/img/balicolage3A.png" style="width:100%">
+                        <img src="static/img/3.png" style="width:200%; max-width: 150%;">
+                    </div>
+
+                    <div class="mySlides fade">
+                        <img src="static/img/4.png" style="width:200%; max-width: 150%;">
                     </div>
 
                     <script>
@@ -198,12 +202,12 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/rudiantara.png" alt="Rudiantara" title="Rudiantara" />
+                                    <img src="static/img/joni.jpg" alt="Rudiantara" title="Rudiantara" />
                                 </span>
-                            <h6><label>Rudiantara</label><span>Minister of Communications and Informatics of Indonesia</span></h6>
+                            <h6><label>Johnny Gerard Plate (TBC)</label><span>Minister of Communications and Informatics of Indonesia</span></h6>
                         </div>
                         <div class="speac">
-                            <p>1984, BSc in Statistics, University of Padjadjaran; 1988, MBA, IPPM. 1986-95, General Manager, Business Development, Indosat. 1995-96, Director, Commercial, Telkomsel. 1996-2002, Chief Operating Officer, Telekomindo Primabhakti. 1997-2006, Director, Sales and Marketing and Director, Corporate Affairs, XL Axiata. 2008-09, Vice-President Director, PLN (Persero). 2006-08, Vice-President Director, Semen Indonesia (Persero). 2010-14, Chief Executive Officer, Bukit Asam Transpacific Railways. 2010-14, Chief Executive Officer, Rajawali Asia Resources. 2011-12, Independent Commissioner and Chief of Audit Committee, Telekomunikasi Indonesia (Persero). 2012-15, Independent Commissioner, Indosat. Since 2014, Minister of Communications and Informatics (MCI), Republic of Indonesia.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit </p>
                         </div>
                     </div> <!-- col -->
                 </div>
@@ -214,7 +218,7 @@
                                 <span class="avtar">
                                     <img src="static/img/Helani-Galpaya.png" alt="Helani Galpaya" title="Helani Galpaya" />
                                 </span>
-                            <h6><label>Helani Galpaya</label><span> Chief Executive Officer Lirne Asia</span></h6>
+                            <h6><label>Helani Galpaya (TBC)</label><span> Chief Executive Officer Lirne Asia</span></h6>
                         </div>
                         <div class="speac">
                             <p>Helani Galpaya researches and engages in public discourse on issues related to net neutrality, policy and regulatory barriers in Internet access, e-Government and broadband quality of service. She also studies and speaks on how knowledge and information disseminated via ICTs can improve inclusiveness of SMMEs (small, medium and micro enterprises) in global agriculture value chains, and how labor is changing due to digitization and entry of digital platforms that reduce transaction costs. She is currently leading nationally representative surveys of Internet use by households and individuals in India, Pakistan, Bangladesh, Indonesia, Cambodia, Myanmar and Nepal. She is also currently researching how experiences and perceptions of harassment, surveillance and privacy impact the way men and women differentially experience the Internet, and how online identity helps or hinders their digital and political participation.</p>
@@ -228,7 +232,7 @@
                                 <span class="avtar">
                                     <img src="static/img/wataruimajuku.png" alt="Wataru Imajuku" title="Wataru Imajuku" />
                                 </span>
-                            <h6><label>Wataru Imajuku</label><span>Kindai University</span></h6>
+                            <h6><label>Wataru Imajuku (TBC)</label><span>Kindai University</span></h6>
                         </div>
                         <div class="speac">
                             <b>Department</b>: Department of Electrical and Communication Engineering / Graduate School of Industry
@@ -258,7 +262,7 @@
                                 <span class="avtar">
                                     <img src="static/img/Prof.Wolfgang.jpg" alt="Wolfgang Drechsler" title="Wolfgang Drechsler" />
                                 </span>
-                            <h6><label>Prof. Wolfgang Drechsler </label><span>Tallinn University of Technology, Estonia</span></h6>
+                            <h6><label>Prof. Wolfgang Drechsler (TBC)</label><span>Tallinn University of Technology, Estonia</span></h6>
                         </div>
                         <div class="speac">
                             <p>Wolfgang Drechsler is professor of Governance at Tallinn University of Technology’s Ragnar Nurkse Department of Innovation and Governance and associate and member of the advisory board at the Davis Center at Harvard University. He has a Ph.D. from the University of Marburg and an Honorary Doctorate from Corvinus University Budapest. In civil service, he has been Advisor to the President of Estonia, Executive Secretary with the German Wissenschaftsrat during German Reunification, and, as an APSA Congressional Fellow, Senior Legislative Analyst in the United States Congress. He has been a visiting professor, i.e., in Singapore, Bangkok, Yogyakarta, Zhejiang, Kuala Lumpur and Beijing, as well as in Louvain-la-neuve, where he held the Chaire Andre Molitor. Recognitions include the German Federal Merit Cross, the Estonian Order of St. Mary’s Land, and most recently, the 2017 Senator Boorsma Award from SECoPA.</p>
@@ -272,7 +276,7 @@
                                 <span class="avtar">
                                     <img src="static/img/roger-harris.jpg" alt="Roger W. Harris" title="Roger W. Harris" />
                                 </span>
-                            <h6><label>Dr. Roger W. Harris </label><span>Universiti Malaysia Sarawak, Malaysia</span></h6>
+                            <h6><label>Dr. Roger W. Harris (TBC)</label><span>Universiti Malaysia Sarawak, Malaysia</span></h6>
                         </div>
                         <div class="speac">
                             <p>Dr. Roger W. Harris has a PhD in Information Systems from the City University of Hong Kong. He has been advancing the use of Information and Communication Technologies for poverty reduction and rural development in Asia since 1997. Dr. Harris is the founder of Roger Harris Associates, a consulting and social entrepreneurial firm that provides services to Asian governments and aid agencies, including the United Nations, the World Bank, International Telecommunications Union, USAID and the Asian Development Bank. He has worked on assignments for project design and implementation, evaluation, policy and strategy development, knowledge sharing and research in Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Mongolia, Nepal, Papua New Guinea, Philippines, Sri Lanka, Thailand and Vietnam. Mostly, this comprises setting up village telecentres with computers and internet and assisting the community to make use of them for local development. He has a long association with a remote indigenous community in Borneo where he has recently set up Malaysia's first community radio station. Dr. Harris is Visiting Professor at the Institute of Social Informatics and Technological Innovation at Universiti Malaysia Sarawak.</p>
@@ -286,7 +290,7 @@
                                 <span class="avtar">
                                     <img src="static/img/aguswitjaksono.png" alt="Agus Witjaksono" title="Agus Witjaksono" />
                                 </span>
-                            <h6><label>Agus Witjaksono Sulistya R. </label><span>Vice President Network Deployment and Services, Telkomsel</span></h6>
+                            <h6><label>Agus Witjaksono Sulistya R. (TBC)</label><span>Vice President Network Deployment and Services, Telkomsel</span></h6>
                         </div>
                         <div class="speac">
                             <p>Agus Witjaksono graduated from Institut Teknologi Sepuluh Nopember (ITS Surabaya) with Bachelor of Electrical Engineering degree, and holds a Master of Finance Management from University of Indonesia. He was appointed as Vice President Network Deployment and Services since 2014, he is responsible for network deployment project rollout Telkomsel and USO program. He is also currently as special pilot agile project smart attacker since January 2018.<br>
@@ -319,7 +323,7 @@
                                 <span class="avtar">
                                     <img src="static/img/Anang_Achmad_Latif_-_BP3TI.jpg" alt="Anang Latif" title="Anang Latif" />
                                 </span>
-                            <h6><label>Anang Latif </label><span>Executive Director, BAKTI</span></h6>
+                            <h6><label>Anang Latif (TBC)</label><span>Executive Director, BAKTI</span></h6>
                         </div>
                         <div class="speac">
                             <p>Anang Achmad Latif is a civil servant who specialized in communications and informatics fields. He started his career as Radio Spectrum Frequency planner at the Ministry of Communications and Informatics of the Republic of Indonesia. He was trusted to manage ICT infrastructure development in the Ministry. He, who was born in Bandung (West Java), graduated in Electronic Engineering at Institut Teknologi Bandung and completed his Master of Science degree in Operational Telecommunications major at Coventry University (London). He also known internationally as he served as Chairman of Special Task Force on digital TV Implementation between Indonesia, Malaysia, and Singapore in 2009-2011. He also is a member of the ASEAN Digital Broadcasting from 2009 until present. In June 2016, he was promoted as Director of Balai Penyedia and Pengelola Pembiayaan Telekomunikasi dan Informatika (BP3TI) or known as BAKTI, a unit under the Ministry of Communication and Informatics which manage Universal Service Obligation or USO.</p>
@@ -333,7 +337,7 @@
                                 <span class="avtar">
                                     <img src="static/img/Inoue.jpg" alt="Masugi Inoue" title="Masugi Inoue" />
                                 </span>
-                            <h6><label>Dr. Masugi Inoue </label><span>NICT, Japan</span></h6>
+                            <h6><label>Dr. Masugi Inoue (TBC)</label><span>NICT, Japan</span></h6>
                         </div>
                         <div class="speac">
                             <p>Dr. Inoue graduated from Kyoto University in 1992 and received a doctorate of engineering from The University of Tokyo in 1997. Since he joined Communications Research Laboratory (CRL) in 1997, which was reorganized as NICT in 2004, he has been engaged in the research and development of ultra-high-speed WLANs, wireless and mobile networks, ubiquitous computing, future-generation networks, and resilient networks. He has been in the current position since April 2016. He was a visiting researcher at Polytechnic University (now the Polytechnic Institute of New York University), New York, in 2000. He served as Director of General Affairs, Director of Finance, and Associate Editor of Transactions on Communications for the IEICE Communications Society. He also served as Chairman of the Technical Committee on MoNA and as a member of ten Technical Committees of IEICE and MBL of IPSJ. He received the IEICE Young Researcher’s Award in 2003, the Best Paper Award from IPSJ in 2006 and 2007, and the Young Scientists’ Prize of the Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science, and Technology in 2007.</p>
@@ -347,7 +351,7 @@
                                 <span class="avtar">
                                     <img src="static/img/PaulMichael.jpg" alt="Paul Michael Scanlan" title="Paul Michael Scanlan" />
                                 </span>
-                            <h6><label>Paul Michael Scanlan</label><span>&nbsp;CTO Of CNBG Huawei</span></h6>
+                            <h6><label>Paul Michael Scanlan (TBC)</label><span>&nbsp;CTO Of CNBG Huawei</span></h6>
                         </div>
                         <div class="speac">
 
@@ -374,7 +378,7 @@
                     <strong>Paper submission deadline: <!-- August
                         <del style="text-decoration: line-through blue; text-decoration-style: double">1<sup>st</sup></del>
                         <del style="text-decoration: line-through blue; text-decoration-style: double">17<sup>th</sup></del>
-                        27<sup>th</sup> (extended)--> September 3<sup>th</sup> (Last Call), 2018</strong>
+                        27<sup>th</sup> (extended)--> July 18<sup>th</sup>, 2021</strong>
                 </div> <!-- col -->
             </div>
 
@@ -387,33 +391,44 @@
                         <p>
                             Prospective authors are invited to submit full-length papers, with up to six pages for technical content including figures and possible references. Topics of interest include, but are not limited to the following areas:
                         </p>
-                        <strong>ICT Infrastructure and Application for Rural Development Track</strong>
+                        <strong>ICT for empowering Human Resources in Rural development (HR)</strong>
                         <ul>
-                            <li>Rural informatics,</li>
-                            <li>Telecommunication and informatics application, </li>
-                            <li>Mobile learning, </li>
-                            <li>Sustainable design, </li>
+                            <li>ICT Innovation ecosystem for rural development,</li>
+                            <li>ICT competencies for Making Indonesia 4.0,</li>
+                            <li>The use of ICT to develop smart village,</li>
+                            <li>Technology adoption for human resources management,</li>
+                            <li>Digital learning system for rural communities,</li>
+                            <li>ICT for educational support,</li>
+                            <li>Mobile learning,</li>
+                            <li>Pentahelix collaboration tools for rural human resource development (actor networks, ICT talent),</li>
+                            <li>ICT for community productivity</li>
+                        </ul>
+                        <strong>Digital Economy and Ecosystem for Rural Development (DE)</strong>
+                        <ul>
+                            <li>ICT Policies for Rural development,</li>
+                            <li>ICT framework for digital economy,</li>
                             <li>Smart governance,</li>
-                            <li>E-government, </li>
+                            <li>E-government,</li>
+                            <li>E-Commerce ( services, logistics, market place),</li>  
+                            <li>Digital Inclusion and Convergence Technology,</li>
+                            <li>ICT Technologies and Financial Innovations (Peer to peer lending system application, crowd funding, financial inclusions, etc),</li>
+                            <li>ICT Collaboration tools,</li>
+                            <li>Emerging technologies (IoT, Artificial Intelligence, Block chain Technology, Machine Learning, etc),</li>
+                            <li>Next Generation Telecommunication (5G, OpenRan),</li>
+                            <li>Digital Broadcasting for Rural Development,</li> 
+                            <li>Knowledge Management,</li> 
+                            <li>Telecommunication and informatics application,</li>
+                            <li>ICT for Agricultural technology,</li>
                         </ul>
-                        <strong>ICT Ecosystem for Rural Development Track</strong>
+                        <strong>Social and Cultural Implications of ICT for Rural Development (SC)</strong>
                         <ul>
-                            <li>New technologies and their role in economic system and financial scheme, </li>
-                            <li>Education support, </li>
-                            <li>Culture shifting, </li>
-                            <li>Digital literacy, </li>
-                            <li>Rural policy </li>
-                        </ul>
-                        <strong>Social Implications of ICT in Rural Development Track</strong>
-                        <ul>
-                            <li>Humanitarian engineering,</li>
-                            <li>Environmental issues,</li>
+                            <li>Humanitarian technology,</li> 
                             <li>Privacy and security,</li>
-                            <li>Other economic, health, and safety implications of technology,</li>
-                            <li>History of technology,</li>
-                            <li>Health and healthcare technologies and impact,</li>
-                            <li>Reliable energy and social issues related to energy,</li>
-                            <li>Other social issues of ICT</li>
+                            <li>Economic, health, and safety implications of technology,</li>
+                            <li>Healthcare technologies and impact,</li>
+                            <li>Social issues of ICT (social media evaluation, social technology, social informatics),</li>
+                            <li>Digital transformation (society 5.0, cultural shifting),</li>
+                            <li>Other implication of ICT (specific ICT implementation in rural areas),</li>
                         </ul>
                     </div>
                 </div>
@@ -447,7 +462,7 @@
                             <li>Select the New Users - Click Here link.</li>
                             <li>Enter the following: </li>
                             <ul>
-                                <li><b>44842X</b> for the Conference ID</li>
+                                <li><b>50538X</b> for the Conference ID</li>
                                 <li>your email address</li>
                                 <li>a password</li>
                             </ul>
@@ -469,6 +484,7 @@
     </section>
     <!-- / -->
 
+    <!-- Important Date & Programme -->
     <section id="importantdate" class="section grey-bg border-top-grey">
         <div class="container">
             <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
@@ -483,11 +499,11 @@
                             Important Date
                         </a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a id="profile-tab" data-toggle="tab" href="#profilea" role="tab" aria-controls="profilea" aria-selected="false">
                             Programme
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane p-80px-t fade show active" id="importantdatetab" role="tabpanel" aria-labelledby="importantdatetab-tab">
@@ -497,13 +513,17 @@
                                     <br>
                                     <h5 style="text-align: center"><b>Important Date</b></h5><br>
                                     <ul>
-                                        <li style="background: #808080;">
-                                            <strong style="font-size: 14px"><!--August
+                                        <!-- <li style="background: #808080;"> -->
+                                        <li>
+                                            <!-- <strong style="font-size: 14px"> -->
+                                            <strong >
+                                            <!--August
                                                 <del style="text-decoration: line-through blue; text-decoration-style: double">1<sup>st</sup></del>
                                                 <del style="text-decoration: line-through blue; text-decoration-style: double">17<sup>th</sup></del>
-                                                27<sup>th</sup> (extended)--> September 3<sup>rd</sup> (Last Call), 2018</strong>
+                                                27<sup>th</sup> (extended)--> July 18<sup>th</sup>, 2021</strong>
                                             <br>
-                                            <span style="font-size: 12px">Deadline for paper submission</span>
+                                            <!-- <span style="font-size: 12px">Deadline for paper submission</span> -->
+                                            Deadline for paper submission
                                             <br>
                                             <div class="fas fa-angle-down fa-2x"></div><br/>
                                             <!--
@@ -517,29 +537,34 @@
                                             </a>
                                             -->
                                         </li>
-                                        <li style="background: #808080;">
-                                            <strong style="font-size: 14px; font-weight: bold;">September 10<sup>th</sup> (phase #1) and September 20<sup>th</sup> (phase #2), 2018 </strong>
+                                        <!-- <li style="background: #808080;"> -->
+                                        <li>
+                                            <!-- <strong style="font-size: 14px; font-weight: bold;">September 27<sup>th</sup>, 2021</strong> -->
+                                            <strong >September 27<sup>th</sup>, 2021</strong>
                                             <br>
-                                            <span style="font-size: 12px">Notification of accepted paper</span>
+                                            <!-- <span style="font-size: 12px">Notification of accepted paper</span> -->
+                                            Notification of accepted paper
                                             <br>
                                             <div class="fas fa-angle-down fa-2x"></div>
                                         </li>
                                         <li>
-                                            <strong style="font-size: 26px; font-weight: bold;">October 10<sup>th</sup>, 2018</strong>
+                                            <!-- <strong style="font-size: 26px; font-weight: bold;">October 15<sup>th</sup>, 2021</strong> -->
+                                            <strong>October 15<sup>th</sup>, 2021</strong>
                                             <br>
-                                            <span style="font-size: 22px">Deadline for final manuscript submission</span>
+                                            <!-- <span style="font-size: 22px">Deadline for final manuscript submission</span> -->
+                                            Notification of accepted paper
                                             <br>
                                             <div class="fas fa-angle-down fa-2x"></div>
                                         </li>
                                         <li>
-                                            <strong>October 10<sup>th</sup>, 2018</strong>
+                                            <strong>October 20<sup>th</sup>, 2021</strong>
                                             <br>
                                             Deadline for author registration
                                             <br>
                                             <div class="fas fa-angle-down fa-2x"></div>
                                         </li>
                                         <li>
-                                            <strong>October 17<sup>th</sup>-18<sup>th</sup>, 2018</strong>
+                                            <strong>October 27<sup>th</sup>-28<sup>th</sup>, 2021</strong>
                                             <br>
                                             Conference event
                                             <br>
@@ -809,7 +834,7 @@
         <div class="container">
             <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
                 <div class="col-md-8 col-lg-5 text-center">
-                    <h2 class="font-alt">Venue</h2>
+                    <h2 class="font-alt">Venue (TBD)</h2>
                     <p></p>
                 </div> <!-- col -->
             </div>
@@ -851,21 +876,18 @@
                             <li>
                                 <strong><span style="text-align: center; font-size: 21px;">Advisory Board</span></strong>
                                 <div style="text-align: left; font-size: 14px;">
-                    <br/><a href="http://www.fuk.kindai.ac.jp/eng/graduate/pdf/resercher_prof.pdf" target="_blank">Prof. Toru Ihara</a>, Kindai University (Japan)
-				    <br><a href="http://research.kindai.ac.jp/profile/en.d3b55318b9b6b290.html" target="_blank" >Prof. Wataru Imajuku</a>, Kindai University (Japan)   
-					<br/><a href="https://www.uow.edu.au/~wsusilo/" target="_blank" >Prof. Willy Susilo</a>, University of Wollongong (Australia)
-					<br/><a href="https://www.ttu.ee/institutes/ragnar-nurkse-department-of-innovation-and-governance/department-11/academic-staff-5/academic-staff-6/" target="_blank" >Prof. Wolfgang Drechsler</a>, Tallinn University of Technology (Estonia)   
-					<br/><a href="http://staff.ui.ac.id/kalamullah.ramli" target="_blank" >Prof. Kalamullah Ramli</a>, Universitas Indonesia (Indonesia)
-					<br/><a href="http://research.eng.ui.ac.id/researcher/yuliftui/" target="_blank" >Prof. Fitri Yuli</a>, Universitas Indonesia (Indonesia)    
-                    <br/><a href="http://staff.iium.edu.my/mira/" target="_blank" >Associate Prof. Mira Kartiwi</a>, International Islamic University Malaysia (Malaysia)   
-                    <br/><a href="https://ukm.pure.elsevier.com/en/persons/rosdiadee-nordin" target="_blank" >Assoc. Prof. Ir. Dr. Rosdiadee Nordin</a>, National University of Malaysia (Malaysia)    
-                    <br/>Dr. Basuki Yusuf Iskandar, Ministry of Communications and Informatics RI (Indonesia)   
-                                      
-                                    
-                                    
+                                    <br/><a href="http://www.fuk.kindai.ac.jp/eng/graduate/pdf/resercher_prof.pdf" target="_blank">Prof. Toru Ihara</a>, Kindai University (Japan)
+                                    <br><a href="http://research.kindai.ac.jp/profile/en.d3b55318b9b6b290.html" target="_blank" >Prof. Wataru Imajuku</a>, Kindai University (Japan)   
+                                    <br/><a href="https://www.uow.edu.au/~wsusilo/" target="_blank" >Prof. Willy Susilo</a>, University of Wollongong (Australia)
+                                    <br/><a href="https://www.ttu.ee/institutes/ragnar-nurkse-department-of-innovation-and-governance/department-11/academic-staff-5/academic-staff-6/" target="_blank" >Prof. Wolfgang Drechsler</a>, Tallinn University of Technology (Estonia)   
+                                    <br/><a href="http://staff.ui.ac.id/kalamullah.ramli" target="_blank" >Prof. Kalamullah Ramli</a>, Universitas Indonesia (Indonesia)
+                                    <br/><a href="http://research.eng.ui.ac.id/researcher/yuliftui/" target="_blank" >Prof. Fitri Yuli</a>, Universitas Indonesia (Indonesia)    
+                                    <br/><a href="http://staff.iium.edu.my/mira/" target="_blank" >Associate Prof. Mira Kartiwi</a>, International Islamic University Malaysia (Malaysia)   
+                                    <br/><a href="https://ukm.pure.elsevier.com/en/persons/rosdiadee-nordin" target="_blank" >Assoc. Prof. Ir. Dr. Rosdiadee Nordin</a>, National University of Malaysia (Malaysia)    
+                                    <br/>Dr. Basuki Yusuf Iskandar, Ministry of Communications and Informatics RI (Indonesia)   
                                 </div>
                             </li>
-                          <li>
+                            <li>
                                 <strong><span style="text-align: center; font-size: 21px;"> Scientific Committee </span></strong>
                                 <div style="text-align: left; font-size: 14px;">
                                     <br/><a href="https://scholars.uow.edu.au/display/william_tibben" target="_blank">Dr. William Tibben</a>, University of Wollongong (Australia)
@@ -916,8 +938,6 @@
                                     <br/><a href="http://scholar.binus.ac.id/D3803/dr-ir-yaya-heryadi/" target="_blank">Dr. Ir. Yaya Heryadi, M. Sc.</a>, Bina Nusantara University (Indonesia)
                                     <br/>
                                     <a href="http://staff.ui.ac.id/irwansyah09">Dr. Irwansyah, S.Sos., M.A</a>., Universitas Indonesia (Indonesia)
-                                    
-
                             </li>
                             <li>
                                 <strong><span style="text-align: center; font-size: 21px;">Organizing Committee</span></strong>
@@ -965,11 +985,8 @@
 
                 </div> <!-- col -->
             </div>
-
         </div>
-
     </section>
-    
     <!-- Registration -->
     
     
@@ -985,8 +1002,8 @@
             <div class="row">
                 <div class="col-md-9 col-lg-6 sm-m-15px-tb">
                     <h4 class="font-alt">Contact us</h4>
-                    <p><strong>International Conference on ICT for Rural Development 2018</strong></p>
-                    <p><strong>E-Mail: <a style="color: #082859" href="mailto:ictrudev@kominfo.go.id?Subject=ICTRudev2018" target="_blank">ictrudev@kominfo.go.id</a></strong></span></p>
+                    <p><strong>International Conference on ICT for Rural Development 2021</strong></p>
+                    <p><strong>E-Mail: <a style="color: #082859" href="mailto:ictrudev@kominfo.go.id?Subject=ICTRudev2018" target="_blank">conference@kominfo.go.id</a></strong></span></p>
                     <p><strong>Phone: <a style="color: #082859" href="tel:+62213800418">+62 21 3800418</a></strong></span></p>
                 </div> <!-- col -->
 

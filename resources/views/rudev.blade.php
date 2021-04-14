@@ -23,7 +23,7 @@
     <meta property="og:image:width" content="254" />
     <meta property="og:image:height" content="254" />
 
-    <title>International Conference ICT Rural Development 2018 - MCI RI</title>
+    <title>International Conference ICT Rural Development 2021 - MCI RI</title>
     <!-- / -->
 
     <!---Font Icon-->
@@ -43,8 +43,8 @@
     <!-- / -->
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="shortcut icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.ico">
+    <link rel="shortcut icon" type="image/png" sizes="16x16" href="images/favicon.ico">
 
     <!-- / -->
     <script async src="https://static.addtoany.com/menu/page.js"></script>
@@ -110,16 +110,22 @@
             <!-- Top Menu -->
             <div class="collapse navbar-collapse justify-content-end" id="navbarHeader">
                 <ul class="navbar-nav ml-auto">
+					<li><a class="nav-link" href="#about">About</a></li>
                     <li><a class="nav-link" href="#speakers">Speakers</a></li>
-					<li><a class="nav-link" href="#Participants">Participants</a></li>
-                    <li><a class="nav-link" href="https://k-cloud.kominfo.go.id/s/ictrudev2018">Download</a></li>
+					<li><a class="nav-link" href="#cfp">Call For Paper</a></li>
+                    <!-- <li><a class="nav-link" href="https://k-cloud.kominfo.go.id/s/ictrudev2018">Download</a></li> -->
                     <li><a class="nav-link" href="#guide">Guidelines</a></li>
                     <li><a class="nav-link" href="#importantdate">Date</a></li>
-                    <li><a class="nav-link" href="#venue">Venue</a></li>
+                    <li><a class="nav-link" href="#venue">Events</a></li>
                     <li><a class="nav-link" href="#organizer">Committees</a></li>
-                    <!-- <li><a class="nav-link" href="#registration">Registration</a></li>
-                    <li><a class="nav-link" href="login.php">Login</a></li> -->
-
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#registration1">Presenter Registration</a>
+                            <a class="dropdown-item" href="#registration2">Participant Registration</a>
+                        </div>
+                    </li>
+                    <!-- <li><a class="nav-link" href="login.php">Login</a></li> -->
                 </ul>
             </div>
             <!-- / -->
@@ -139,28 +145,27 @@
                     <div class="home-left">
                         <span>&nbsp;</span>
                         <h1 class="font-alt">ICT for Rural Development: Digital Economy and Human Resource Development </h1>
-                        <p style="font-weight: 500;">2<sup>nd</sup> 2021 ICT RuDev is the second international conference on ICT Rural for Development organized by ICT Research and Human Resource Development Agency, Ministry of Communications and Informatics (<a href="https://www.kominfo.go.id/" target="_blank" style="font-weight: bold; color: #003c76;">Kemkominfo</a>), Republic of Indonesia. IC-ICTRuDev is intended to gather researchers, academics, engineers, scholars and practitioners to present and exchange recent ideas, innovations and developments regarding the use and implications of ICT in rural development. The conference is technically co-sponsored by IEEE Indonesia Section.</p>
+                        <p style="font-weight: 500;">2021 2<sup>nd</sup> ICT RuDev is the second international conference on ICT Rural for Development organized by ICT Research and Human Resource Development Agency, Ministry of Communications and Informatics (<a href="https://www.kominfo.go.id/" target="_blank" style="font-weight: bold; color: #003c76;">Kemkominfo</a>), Republic of Indonesia. IC-ICTRuDev is intended to gather researchers, academics, engineers, scholars and practitioners to present and exchange recent ideas, innovations and developments regarding the use and implications of ICT in rural development. The conference is technically co-sponsored by IEEE Indonesia Section.</p>
                         <p style="font-weight: bold">IEEE Conference ID: <a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/50538" style="color: #003c76" target="_blank">#50538</a></p>
                         <a href="http://ieee.id/"><img src="static/img/IEEE%20indo%20sponsor.png"/></a>
 
                     </div>
                 </div>
                 <div class="col-md-6">
-
                     <div class="mySlides fade">
-                        <img src="static/img/1.png" style="width:200%; max-width: 150%;">
+                        <img src="static/img/1.png" style="width:120%; max-width: 150%;">
                     </div>
 
                     <div class="mySlides fade">
-                        <img src="static/img/2.png" style="width:200%; max-width: 150%;">
+                        <img src="static/img/2.png" style="width:120%; max-width: 150%;">
                     </div>
 
                     <div class="mySlides fade">
-                        <img src="static/img/3.png" style="width:200%; max-width: 150%;">
+                        <img src="static/img/3.png" style="width:120%; max-width: 150%;">
                     </div>
 
                     <div class="mySlides fade">
-                        <img src="static/img/4.png" style="width:200%; max-width: 150%;">
+                        <img src="static/img/4.png" style="width:120%; max-width: 150%;">
                     </div>
 
                     <script>
@@ -187,6 +192,34 @@
         </div> <!-- container -->
     </section>
 
+    <!-- About -->
+    <section id="about" class="section-clients section grey-bg border-top-grey">
+        <div class="container">
+            <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
+                <div class="col-md-8 col-lg-5 text-center">
+                    <h2 class="font-alt">About the conference</h2>
+                    <p></p>
+                </div> <!-- col -->
+            </div>
+
+            <div class="row align-items-center">
+
+                <div class="col-md-8 sm-m-30px-t">
+                    <div class="std-box p-50px-l md-p-0px-l">
+                        2021 2nd ICT RuDev is the second international conference on ICT Rural for Development organized by ICT Research and Human Resource Development Agency, Ministry of Communications and Informatics (Kemkominfo), Republic of Indonesia. This conference is technically sponsored by IEEE Indonesia section. The initial conference was held in 2018 in Bali, Indonesia. This conference was attended by high reputable speakers in government, industry, and academics. Many good ideas, knowledge, experiences have been shared and learned during the conference, both in plenary sessions and parallel sessions. Main issues addressed at the conference are related to ICT infrastructure and application for rural development, ICT ecosystem, and also social implications of ICT in rural development. These of course will be beneficial for MCIT Indonesia as well as for each of us in efforts to develop rural areas through the use of ICT corresponding to respective roles and competences 
+                    </div> <!-- / -->
+                </div> <!-- col -->
+
+                <div class="col-md-4 text-center effect-main">
+                    <img src="static/img/ICTRudev 2.png" style="width:80%;">
+                </div> <!-- col -->
+            </div>
+
+        </div> <!-- container -->
+    </section>
+    <!-- / -->
+    
+    <!-- Speaker -->
     <section id="speakers"  class="section grey-bg border-top-grey">
         <div class="container ">
             <br/><br/>
@@ -202,12 +235,12 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/joni.jpg" alt="Rudiantara" title="Rudiantara" />
+                                    <img src="static/img/joni.jpg" alt="Johnny Gerard Plate" title="Johnny Gerard Plate" />
                                 </span>
                             <h6><label>Johnny Gerard Plate (TBC)</label><span>Minister of Communications and Informatics of Indonesia</span></h6>
                         </div>
                         <div class="speac">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit </p>
+                            <p>Johnny Gerard Plate, born in Ruteng, East Nusa Tenggara in 1956. He graduated from Catholic University Atmajaya Jakarta on 1986 on Economics. He was formerly House of Representatives of The Republic of Indonesia before apointed as Minister of Communication and Informatics Indonesia.</p>
                         </div>
                     </div> <!-- col -->
                 </div>
@@ -216,12 +249,12 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/Helani-Galpaya.png" alt="Helani Galpaya" title="Helani Galpaya" />
+                                    <img src="static/img/hary.jpeg" alt="Hary Budiarto" title="Hary Budiarto" />
                                 </span>
-                            <h6><label>Helani Galpaya (TBC)</label><span> Chief Executive Officer Lirne Asia</span></h6>
+                            <h6><label>Dr. Hary Budiarto M.Kom (TBC)</label><span> Kepala Badan Penelitian dan Pengembangan Sumber Daya Manusia</span></h6>
                         </div>
                         <div class="speac">
-                            <p>Helani Galpaya researches and engages in public discourse on issues related to net neutrality, policy and regulatory barriers in Internet access, e-Government and broadband quality of service. She also studies and speaks on how knowledge and information disseminated via ICTs can improve inclusiveness of SMMEs (small, medium and micro enterprises) in global agriculture value chains, and how labor is changing due to digitization and entry of digital platforms that reduce transaction costs. She is currently leading nationally representative surveys of Internet use by households and individuals in India, Pakistan, Bangladesh, Indonesia, Cambodia, Myanmar and Nepal. She is also currently researching how experiences and perceptions of harassment, surveillance and privacy impact the way men and women differentially experience the Internet, and how online identity helps or hinders their digital and political participation.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit.</p>
                         </div>
                     </div>
                 </div>
@@ -230,92 +263,15 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/wataruimajuku.png" alt="Wataru Imajuku" title="Wataru Imajuku" />
+                                    <img src="static/img/wahyudi.jpeg" alt="Wahyudi Hasbi" title="Wahyudi Hasbi" />
                                 </span>
-                            <h6><label>Wataru Imajuku (TBC)</label><span>Kindai University</span></h6>
+                            <h6><label>Wahyudi Hasbi (TBC)</label><span>Indonesian National Institute of Aeronautics and Space | LAPAN · Satellite Technology Center</span></h6>
                         </div>
                         <div class="speac">
-                            <b>Department</b>: Department of Electrical and Communication Engineering / Graduate School of Industry
-                            <p><b>Research areas:</b>
-                            <ul>
-                                <li>Electrical and electronic engineering, Communication/Network engineering</li>
-                                <li>Informatics, Information network</li>
-                            </ul>
-                            </p>
-                            <p>Has written about 92 published papers, more detailed profile: <a href="http://research.kindai.ac.jp/profile/en.d3b55318b9b6b290.html">Wataru Imajuku - Kindai University</a> </p>
+                            <p>He was a member of the principal engineer in the LAPAN-TUBSAT satellite. He was appointed as System Engineer and Chief Engineer respectively in the development of LAPAN-A2/LAPAN-ORARI (2010-2013) and LAPAN-A3/IPB (2013-2016) satellites in Indonesia, which are in orbit since 2015. He is a Senior Member of IEEE in Aerospace & Electronics Systems & Computer Society. He is currently Chair of IEEE Indonesia Section Elect 2021. His main research interests in microsatellite system engineering.</p>
                         </div>
                     </div>
-                </div> <!-- col -->
-
-
-
-                <div class="col-md-8 col-lg-8 text-center"><br/>
-                    <h2 class="font-alt">Other Speakers</h2><br/>
-                </div>
-                <br/>
-
-
-
-                <div class="col-12 col-md-11 col-xs-12">
-                    <div class="testimonial-col theme-after">
-                        <div class="avtar-box">
-                                <span class="avtar">
-                                    <img src="static/img/Prof.Wolfgang.jpg" alt="Wolfgang Drechsler" title="Wolfgang Drechsler" />
-                                </span>
-                            <h6><label>Prof. Wolfgang Drechsler (TBC)</label><span>Tallinn University of Technology, Estonia</span></h6>
-                        </div>
-                        <div class="speac">
-                            <p>Wolfgang Drechsler is professor of Governance at Tallinn University of Technology’s Ragnar Nurkse Department of Innovation and Governance and associate and member of the advisory board at the Davis Center at Harvard University. He has a Ph.D. from the University of Marburg and an Honorary Doctorate from Corvinus University Budapest. In civil service, he has been Advisor to the President of Estonia, Executive Secretary with the German Wissenschaftsrat during German Reunification, and, as an APSA Congressional Fellow, Senior Legislative Analyst in the United States Congress. He has been a visiting professor, i.e., in Singapore, Bangkok, Yogyakarta, Zhejiang, Kuala Lumpur and Beijing, as well as in Louvain-la-neuve, where he held the Chaire Andre Molitor. Recognitions include the German Federal Merit Cross, the Estonian Order of St. Mary’s Land, and most recently, the 2017 Senator Boorsma Award from SECoPA.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-11 col-xs-12">
-                    <div class="testimonial-col theme-after">
-                        <div class="avtar-box">
-                                <span class="avtar">
-                                    <img src="static/img/roger-harris.jpg" alt="Roger W. Harris" title="Roger W. Harris" />
-                                </span>
-                            <h6><label>Dr. Roger W. Harris (TBC)</label><span>Universiti Malaysia Sarawak, Malaysia</span></h6>
-                        </div>
-                        <div class="speac">
-                            <p>Dr. Roger W. Harris has a PhD in Information Systems from the City University of Hong Kong. He has been advancing the use of Information and Communication Technologies for poverty reduction and rural development in Asia since 1997. Dr. Harris is the founder of Roger Harris Associates, a consulting and social entrepreneurial firm that provides services to Asian governments and aid agencies, including the United Nations, the World Bank, International Telecommunications Union, USAID and the Asian Development Bank. He has worked on assignments for project design and implementation, evaluation, policy and strategy development, knowledge sharing and research in Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Mongolia, Nepal, Papua New Guinea, Philippines, Sri Lanka, Thailand and Vietnam. Mostly, this comprises setting up village telecentres with computers and internet and assisting the community to make use of them for local development. He has a long association with a remote indigenous community in Borneo where he has recently set up Malaysia's first community radio station. Dr. Harris is Visiting Professor at the Institute of Social Informatics and Technological Innovation at Universiti Malaysia Sarawak.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-11 col-xs-12">
-                    <div class="testimonial-col theme-after">
-                        <div class="avtar-box">
-                                <span class="avtar">
-                                    <img src="static/img/aguswitjaksono.png" alt="Agus Witjaksono" title="Agus Witjaksono" />
-                                </span>
-                            <h6><label>Agus Witjaksono Sulistya R. (TBC)</label><span>Vice President Network Deployment and Services, Telkomsel</span></h6>
-                        </div>
-                        <div class="speac">
-                            <p>Agus Witjaksono graduated from Institut Teknologi Sepuluh Nopember (ITS Surabaya) with Bachelor of Electrical Engineering degree, and holds a Master of Finance Management from University of Indonesia. He was appointed as Vice President Network Deployment and Services since 2014, he is responsible for network deployment project rollout Telkomsel and USO program. He is also currently as special pilot agile project smart attacker since January 2018.<br>
-                                Previous Positions:<br>
-                            <ul>
-                                <li>
-                                    VP Area Jawa Bali at Telkomsel
-                                </li>
-                                <li>
-                                    GM Sales Headquarter at Telkomsel
-                                </li>
-                                <li>
-                                    GM Regional Bali Nusra at Telkomsel
-                                </li>
-                                <li>
-                                    GM Regional Jawa Tengah at Telkomsel
-                                </li>
-                                <li>
-                                    Project Manager Jawa Timur at Telkomsel
-                                </li>
-                            </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
+                </div> 
 
                 <div class="col-12 col-md-11 col-xs-12">
                     <div class="testimonial-col theme-after">
@@ -335,12 +291,12 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/Inoue.jpg" alt="Masugi Inoue" title="Masugi Inoue" />
+                                    <img src="static/img/bohlin.jpg" alt="Erik Bohlin" title="Erik Bohlin" />
                                 </span>
-                            <h6><label>Dr. Masugi Inoue (TBC)</label><span>NICT, Japan</span></h6>
+                            <h6><label>Erik Bohlin (TBC)</label><span>Chalmers University of Technology, Sweden </span></h6>
                         </div>
                         <div class="speac">
-                            <p>Dr. Inoue graduated from Kyoto University in 1992 and received a doctorate of engineering from The University of Tokyo in 1997. Since he joined Communications Research Laboratory (CRL) in 1997, which was reorganized as NICT in 2004, he has been engaged in the research and development of ultra-high-speed WLANs, wireless and mobile networks, ubiquitous computing, future-generation networks, and resilient networks. He has been in the current position since April 2016. He was a visiting researcher at Polytechnic University (now the Polytechnic Institute of New York University), New York, in 2000. He served as Director of General Affairs, Director of Finance, and Associate Editor of Transactions on Communications for the IEICE Communications Society. He also served as Chairman of the Technical Committee on MoNA and as a member of ten Technical Committees of IEICE and MBL of IPSJ. He received the IEICE Young Researcher’s Award in 2003, the Best Paper Award from IPSJ in 2006 and 2007, and the Young Scientists’ Prize of the Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science, and Technology in 2007.</p>
+                            <p>Erik Bohlin is Professor at the Department of Technology Management & Economics at Chalmers University of Technology. He has published in a number of areas relating to the information society - policy, strategy, and management. He is Editor-in-Chief of The Journal of Telecommunications Policy. He obtained his graduate degree in Business Administration and Economics at the Stockholm School of Economics (1987) and his Ph.D. at Chalmers University of Technology (1995).</p>
                         </div>
                     </div>
                 </div>
@@ -349,19 +305,29 @@
                     <div class="testimonial-col theme-after">
                         <div class="avtar-box">
                                 <span class="avtar">
-                                    <img src="static/img/PaulMichael.jpg" alt="Paul Michael Scanlan" title="Paul Michael Scanlan" />
+                                    <img src="static/img/alexander.png" alt="Alexander J.A.M. van Deursen" title="Alexander J.A.M. van Deursen" />
                                 </span>
-                            <h6><label>Paul Michael Scanlan (TBC)</label><span>&nbsp;CTO Of CNBG Huawei</span></h6>
+                            <h6><label>Alexander J.A.M. van Deursen (TBC)</label><span>University of Twente, Netherlands</span></h6>
                         </div>
                         <div class="speac">
-
-                            <p>With more than 30 years’ experience in the Telecom and IT industries, he possesses broad experience across most technologies having worked in a variety of senior capacities across Technical, Commercial, Company and Business Management, Operations, Sales, Marketing, Program Management and R&D disciplines.  He is an expert in  the Business of Telecommunications - managing of all aspects (concept to operations) of Telecommunications Carrier / Service Provider businesses. <br/>In the course of his career, he has worked with numerous Fixed and Mobile Operators, vendors, SI and Consulting companies in Asia-Pacific, Africa, North America and Europe.
-                            </p>
+                            <p>As a professor of communication science at the technical University of Twente, Alexander van Deursen is interested in the role of technology in the processes of human communication and in ensuring that technology development is at the service of people. He is especially known for evaluating the contribution of technological developments within debates on inclusive societies. In a scientific manner, Alexander maps barriers of technology engagement – for example using his widely acknowledged framework of digital skills – and explains differences in the positive and negative outcomes that people receive from engagement with (emerging) Internet technology. He is interested in how different people appropriate technology into daily life, and under what conditions technology actually can be used to improve wellbeing. Alexander has published widely in communication science journals that critically discuss key issues arising from the scale and speed of technology development. His publications on digital skills and digital inequality have won awards as best dissertation worldwide on technology and communication from the International Communication Association, best dissertation in communication science in the Benelux from the Netherlands School of Communication Research, best paper award from the International Communication Association, and the UT in the Media award from the University of Twente.</p>
                         </div>
                     </div>
-                </div> <!-- col -->
+                </div>
 
-
+                <div class="col-12 col-md-11 col-xs-12">
+                    <div class="testimonial-col theme-after">
+                        <div class="avtar-box">
+                                <span class="avtar">
+                                    <img src="static/img/sara.jpg" alt="Sara Bice" title="Sara Bice" />
+                                </span>
+                            <h6><label>Sara Bice (TBC)</label><span>The Australian National University, Canberra</span></h6>
+                        </div>
+                        <div class="speac">
+                            <p>Sara Bice is Professor at the Crawford School of Public Policy, The Australian National University.  She is Vice Chancellor’s Futures Scheme Senior Fellow for her work on The Next Generation Engagement program, Australia’s largest study into community engagement in infrastructure, to date. She is President of the International Association for Impact Assessment, the world’s leading organisation for impact assessment practitioners, researchers and clients, representing almost 7,000 members in 120 different countries. Sara is Associate Professor (Special International Guest) at the School of Public Policy and Management, Tsinghua University, Beijing. Sara is an award-winning author and her latest co-edited book, Public Policy in the Asian Century is available from Palgrave Macmillan.</p>
+                        </div>
+                    </div>
+                </div>
             </div> <!-- row -->
         </div> <!-- container -->
 
@@ -448,17 +414,17 @@
                         <div class="f-icon" style="text-align: center"><i class="icon-documents"></i></div>
                         <h4 class="font-alt" style="text-align: center">Author Guidelines</h4>
                         <p>
-                            <strong>Paper Format</strong> - Papers submitted for IC-ICTRuDev 2018 should be up to 6 pages of text including figures and possible references. The authors are responsible to ensure that the submitted papers are in the correct styles, fonts, etc. The submitted papers must be in the PDF format.</p>
+                            <strong>Paper Format</strong> - Papers submitted for IC-ICTRuDev 2021 should be up to 6 pages of text including figures and possible references. The authors are responsible to ensure that the submitted papers are in the correct styles, fonts, etc. The submitted papers must be in the PDF format.</p>
                         <p>
                             <strong>Template</strong> - The Style Manual and Conference Paper templates in various formats are available <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">here</a>. <br />
                             <br />
-                            <strong>Use PDF eXpress Format</strong> - Before submitting your papers, please use IEEE PDF eXpress to comply with IEEE requirements: (<a href="https://www.pdf-express.org/">PDF eXpress</a>) Conference ID: <b>44842X</b>
+                            <strong>Use PDF eXpress Format</strong> - Before submitting your papers, please use IEEE PDF eXpress to comply with IEEE requirements: (<a href="https://www.pdf-express.org/" target="_blank">PDF eXpress</a>) Conference ID: <b>50538X</b>
                             <br/>Below, we provide information to create your PDF eXpress documents.
                             <br/>
                             <br/>
                             <strong>Step by Step Creating Your PDF eXpress Account</strong>:
                         <ul>
-                            <li>Go to IEEE - PDF eXpress site: <a href="https://www.pdf-express.org/">PDF eXpress</a></li>
+                            <li>Go to IEEE - PDF eXpress site: <a href="https://www.pdf-express.org/" target="_blank">PDF eXpress</a></li>
                             <li>Select the New Users - Click Here link.</li>
                             <li>Enter the following: </li>
                             <ul>
@@ -471,7 +437,7 @@
                             <li>Log in to your PDF eXpress account and follow the instructions.</li>
                         </ul>
                         <br/>
-                        <strong>Paper Submission Procedure</strong> - Submit your papers in pdf format through EDAS system (<a href="https://edas.info/N24660">https://edas.info/N24660</a>)
+                        <strong>Paper Submission Procedure</strong> - Submit your papers in pdf format through EDAS system (<a href="https://edas.info/N28327" target="_blank">https://edas.info/N28327</a>)
                         </p>
                         <p>
                             <strong>Non-presented Paper Policy </strong>
@@ -828,13 +794,12 @@
     </section>
     <!--  -->
 
-
     <!-- Venue -->
     <section id="venue" class="section-clients section grey-bg border-top-grey">
         <div class="container">
             <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
                 <div class="col-md-8 col-lg-5 text-center">
-                    <h2 class="font-alt">Venue (TBD)</h2>
+                    <h2 class="font-alt">Event</h2>
                     <p></p>
                 </div> <!-- col -->
             </div>
@@ -844,18 +809,18 @@
                 <div class="col-md-6 sm-m-30px-t">
                     <div class="std-box p-50px-l md-p-0px-l">
                         <div class="title-section  m-20px-b">
-                            <h3 class="font-alt left">Pullman Bali Legian Beach Hotel, Indonesia</h3>
+                            <h5 class="font-alt left">PRESENTERS (ORAL PRESENTATION) – LIVE ZOOM PRESENTATION</h5>
+                            <p>Opportunity to do a Live Zoom Presentation at the Conference. Each Presenter will get 15 Minutes for their Presentation and 05 Minutes for Q&A Session. Once a session has concluded, the video will be available on-demand for one month.</p>
+                            <hr/>
+                            <h5 class="font-alt left">PRESENTERS (ORAL PRESENTATION) – PRE RECORDED VIDEO OPTION</h5    >
+                            <p>This Option is for the Participants who would like to Record the Presentation and play it than Presenting Live at the Conference. The Presenter can record the 15 Minutes Video Presentation and send it to us. (The Video should be 15 minutes or lesser.) The Organizing Committee will play the Video in your Presentation Slot. You should be present during your slot, especially for the Q&A Session.</p>
                         </div>
-                        <ul>
-                            <li>Address: Jalan Melasti No.1, Legian, Kuta, Kabupaten Badung, Bali 80361</li>
-                            <li>Phone: <a href="tel:+62361762500">+62 361 762500</a></li>
-                            <li>Site : <a href="https://www.accorhotels.com/gb/hotel-6556-pullman-bali-legian-beach/index.shtml">Pullman Bali Legian Beach Hotel</a></li>
-                        </ul>
+                        
                     </div> <!-- / -->
                 </div> <!-- col -->
 
                 <div class="col-md-6 text-center effect-main">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.8081545357118!2d115.1655110501992!3d-8.709760393711987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd246c22bdfabd1%3A0x4e6a33082e3e73aa!2sPullman+Bali+Legian+Beach+Hotel+and+Resorts!5e0!3m2!1sid!2sid!4v1528349006774" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <img src="static/img/final zoom.jpg">'
                 </div> <!-- col -->
             </div>
 
@@ -868,116 +833,91 @@
         <div class="container">
             <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
                 <div class="col-md-8 col-lg-8 text-center">
-                    <h2 class="font-alt">Commitees
-                    </h2>
+                    <h2 class="font-alt">Commitees</h2>
                     <!-- Organizer -->
                     <div class="clients-list clients-border clients-col-1">
                         <ul>
                             <li>
                                 <strong><span style="text-align: center; font-size: 21px;">Advisory Board</span></strong>
                                 <div style="text-align: left; font-size: 14px;">
-                                    <br/><a href="http://www.fuk.kindai.ac.jp/eng/graduate/pdf/resercher_prof.pdf" target="_blank">Prof. Toru Ihara</a>, Kindai University (Japan)
-                                    <br><a href="http://research.kindai.ac.jp/profile/en.d3b55318b9b6b290.html" target="_blank" >Prof. Wataru Imajuku</a>, Kindai University (Japan)   
-                                    <br/><a href="https://www.uow.edu.au/~wsusilo/" target="_blank" >Prof. Willy Susilo</a>, University of Wollongong (Australia)
-                                    <br/><a href="https://www.ttu.ee/institutes/ragnar-nurkse-department-of-innovation-and-governance/department-11/academic-staff-5/academic-staff-6/" target="_blank" >Prof. Wolfgang Drechsler</a>, Tallinn University of Technology (Estonia)   
-                                    <br/><a href="http://staff.ui.ac.id/kalamullah.ramli" target="_blank" >Prof. Kalamullah Ramli</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="http://research.eng.ui.ac.id/researcher/yuliftui/" target="_blank" >Prof. Fitri Yuli</a>, Universitas Indonesia (Indonesia)    
-                                    <br/><a href="http://staff.iium.edu.my/mira/" target="_blank" >Associate Prof. Mira Kartiwi</a>, International Islamic University Malaysia (Malaysia)   
-                                    <br/><a href="https://ukm.pure.elsevier.com/en/persons/rosdiadee-nordin" target="_blank" >Assoc. Prof. Ir. Dr. Rosdiadee Nordin</a>, National University of Malaysia (Malaysia)    
-                                    <br/>Dr. Basuki Yusuf Iskandar, Ministry of Communications and Informatics RI (Indonesia)   
+                                    <br/>Prof. Kallamulah Ramli, Universitas Indonesia (Indonesia)
+                                    <br/>Prof. Fitri Yuli Zulkifli, Universitas Indonesia (Indonesia)
+                                    <br/>Prof. Ang Peng Hwa, Nanyang Technological University (Singapore)
+                                    <br/>Prof. Hanafi Husin, Universiti of Malaya (Malaysia)
+                                    <br/>Prof. Nabil Al Munawar, Universiti of Brunei Darussalam (Brunei Darussalam)
+                                </div>
+                            </li>
+                            <li>
+                                <strong><span style="text-align: center; font-size: 21px;">Technical Program Committee</span></strong>
+                                <div style="text-align: left; font-size: 14px;">
+                                    <br/>Dr. Ashwin Sasongko, M.Sc, Indonesian Institute of Sciences (Indonesia) 
+                                    <br/>Prof. Gati Gayatri, MA, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Satrio Darmanto, M.Sc
+                                    <br/>Dr.  Agus Fanar Syukri, PhD.
+                                    <br/>Prof. Riri Fitri Sari, Universitas Indonesia (Indonesia)
+
                                 </div>
                             </li>
                             <li>
                                 <strong><span style="text-align: center; font-size: 21px;"> Scientific Committee </span></strong>
                                 <div style="text-align: left; font-size: 14px;">
-                                    <br/><a href="https://scholars.uow.edu.au/display/william_tibben" target="_blank">Dr. William Tibben</a>, University of Wollongong (Australia)
-                                    <br/><a href="https://unu.edu/experts/ibrahim-rohman.html" target="_blank">Dr. Ibrahim Kholilul Rohman</a>, United Nations University (Portugal)
-                                    <br/><a href="https://sydney.edu.au/engineering/people/wibowo.hardjawana.php" target="_blank">Dr. Wibowo Hardjawana</a>, University of Sydney (Australia)
-                                    <br/><a href="http://www.cbs.dtu.dk/~dhany/cv.pdf" target="_blank">Dhany Saputra, Ph.D.</a>, Brüel & Kjær Vibro (Denmark)
-                                    <br/><a href="https://www.ifr.kit.edu/english/mitarbeiter_3612.php" target="_blank">Dr. rer. nat. Ari Rahadini</a>, Karlsruhe Institute of Technology (Germany)
-                                    <br/><a href="http://uwa.academia.edu/EdiTrionoNuryatno" target="_blank">Dr. Edi Triono Nuryatno</a>, The University of Western Australia (Australia)
-									<br/><a href="https://people.utwente.nl/m.daneva?tab=about-me" target="_blank">Dr. Maya Daneva</a>, University of Twente (Netherlands)
-                                    <br/><a href="https://www.researchgate.net/profile/Sim_Lau" target="_blank">Dr. Sim Kim Lau</a>, University of Wollongong (Australia)
+                                    <br/>Dr. William Tibben, University of Wollongong (Australia)
+                                    <br/>Dr. Dhany Saputra (Denmark)
+                                    <br/>Dr. Ibrahim Kholilul Rohman, United Nations University (Portugal)
+                                    <br/>Dr. Wibowo Hardjawana, University of Sydney (Australia)
+                                    <br/>Dr. Khoirul Anwar (Telkom University)
+                                    <br/>Dr. Denny Setiawan, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Dr. Hasyim Gautama, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>
-                                    <a href="https://scholar.google.co.id/citations?user=BIwAIFoAAAAJ&hl=en">Dr. Titon Dutono</a>, Electronic Engineering Polytechnic Institute of Surabaya(Indonesia)
-                                    <br/>
-                                    <a href="https://id.linkedin.com/in/denny-setiawan-5b607688" target="_blank">Dr. Denny Setiawan</a>, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/><a href="https://id.linkedin.com/in/agung-harimurti-b51a1471" target="_blank">Dr. Agung Harimurti</a>, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/><a href="http://staff.ui.ac.id/nizar" target="_blank">Dr. Achmad Nizar</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="http://staff.ui.ac.id/dana" target="_blank">Dr. Dana Indra Sensuse</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="http://research.eng.ui.ac.id/researcher/ajib" target="_blank">Ajib Setya A, Ph.D.</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="http://staff.ui.ac.id/m.suryanegara" target="_blank">Dr. Muhammad Suryanegara</a>, Universitas Indonesia (Indonesia)
-                                    <br/>
-                                    <a href="https://scholar.google.co.id/citations?user=VM5-xTMAAAAJ&hl=en">Dr. Sigit Jarot</a>, Universitas Indonesia (Indonesia)
-                                    <br/>
-                                    <a href="https://scholar.google.co.id/citations?user=Z7SOhwEAAAAJ&hl=en">Dr. Udi Rusadi</a>, Universitas Indonesia (Indonesia)
-                                    <br/>
-                                    <a href="http://staff.ui.ac.id/dadang.gunawam" target="_blank">Dr. Dadang Gunawan</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="https://id.linkedin.com/in/arif-wismadi-4708a418" target="_blank">Dr. Arif Wismadi</a>, Universitas Gadjah Mada (Indonesia)
-                                    <br/><a href="http://i-system.ft.ugm.ac.id/about-us/research-team/lukito-edi-nugroho-phd/" target="_blank">Dr. Lukito Edi</a>, Universitas Gadjah Mada (Indonesia)
-                                    <br/><a href="http://hi.fisipol.ugm.ac.id/pengajar/dedy-permadi-ma/" target="_blank">Dr. Dedy Permadi</a>, Universitas Gadjah Mada (Indonesia)
-                                    <br/><a href="https://anwarkhoirul.staff.telkomuniversity.ac.id/" target="_blank">Dr. Khoirul Anwar</a>, Telkom University (Indonesia)
-                                    <br/><a href="http://lipi.go.id/staf/detail/yanr001/" target="_blank">Dr. Yan Rianto</a>, Lembaga Ilmu Pengetahuan Indonesia (Indonesia)
-                                    <br/><a href="http://lipi.go.id/staf/detail/rifk001" target="_blank">Dr. Rifki Sadikin</a>, Lembaga Ilmu Pengetahuan Indonesia (Indonesia)
-                                    <br/><a href="http://lipi.go.id/staf/detail/didi016" target="_blank">Dr. Didi Rosiyadi</a>, Lembaga Ilmu Pengetahuan Indonesia (Indonesia)
-                                    <br/><a href="http://www.profildosen.com/detail/0027085807.html" target="_blank">Dr. Lala Kolopaking</a>, Institut Pertanian Bogor (Indonesia)
-                                    <br/><a href="http://et.stei.itb.ac.id/author/mohammadridwaneffendi/" target="_blank">Dr. Ridwan Effendi</a>, Institut Teknologi Bandung (Indonesia)
-                                    <br/><a href="http://mercubuana.academia.edu/IwanKrisnadi" target="_blank">Dr. Iwan Krisnadi</a>, Universitas Mercubuana (Indonesia)
-                                    <br/><a href="http://resits.its.ac.id/index.php/expert/Information_System/Ahmad_Muklason" target="_blank">Ahmad Muklason, Ph.D.</a>, Institut Teknologi Sepuluh Nopember (Indonesia)
-                                    <br/><a href="http://staff.ui.ac.id/ivan" target="_blank">Dr. Ivan Fanany</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="https://romisatriawahono.net/profile/romi-cv.pdf" target="_blank">Dr. Romy Satrio Wahono</a>, Brainmatics (Indonesia)
-                                    <br/><a href="https://acadstaff.ugm.ac.id/nasetiawan" target="_blank">Dr. Noor Akhmad S.</a>, Universitas Gadjah Mada (Indonesia)
-                                    <br/><a href="https://dsp.stei.itb.ac.id/yoanes-bandung/" target="_blank">Dr. Yoanes Bandung</a>, Institut Teknologi Bandung (Indonesia)
-                                    <br/><a href="https://fa.itb.ac.id/wp-content/uploads/sites/44/2016/01/CV-Suhardi-SA-ITB.pdf" target="_blank">Dr. Ing. Suhardi</a>, Institut Teknologi Bandung (Indonesia)
-                                    <br/><a href="https://www.stei.itb.ac.id/file/stei-script/arryakhmad.html" target="_blank">Dr. Arry Akhmad Arman</a>, Institut Teknologi Bandung (Indonesia)
-                                    <br/><a href="https://scholar.google.com/citations?user=tPqyDHAAAAAJ&hl=en" target="_blank">Dr. Aghus Sofwan</a>, Universitas Diponegoro (Indonesia)
-                                    <br/><a href="http://staff.ui.ac.id/eko" target="_blank">Dr. Eko Budiarjo</a>, Universitas Indonesia (Indonesia)
-                                    <br/><a href="http://wahyul.blog.undip.ac.id/curiculum-vitae/" target="_blank">Dr. Eng. Wahyul Amien Syafei</a>, Universitas Diponegoro (Indonesia)
-                                    <br/><a href="https://id.linkedin.com/in/gerry-firmansyah-6ab85b22" target="_blank">Dr. Gerry Firmansyah, ST., M.Kom.</a>, Dewan Teknologi Informasi dan Komunikasi Nasional (Indonesia)
-                                    <br/><a href="http://scholar.binus.ac.id/D3803/dr-ir-yaya-heryadi/" target="_blank">Dr. Ir. Yaya Heryadi, M. Sc.</a>, Bina Nusantara University (Indonesia)
-                                    <br/>
-                                    <a href="http://staff.ui.ac.id/irwansyah09">Dr. Irwansyah, S.Sos., M.A</a>., Universitas Indonesia (Indonesia)
+                                    <br/>Dr. Dedy Permadi, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Dr. Fadhilah Mathar, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Dr. Agung Harimukti, Ministry of Communications and Informatics RI (Indonesia)
+                                </div>
                             </li>
                             <li>
                                 <strong><span style="text-align: center; font-size: 21px;">Organizing Committee</span></strong>
                                 <div style="text-align: left; font-size: 14px;">
                                     <br/>
                                     <b>General Chair:</b>
-                                    <br/>Dr. Wiryanta, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Prof. Gati Gayatri, MA, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/><br/>
                                     <b>Organizing Chair:</b>
-                                    <br/>Haryati, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Bambang Hariyadi, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Emyana Ruth, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Eyla Alivia Maranny, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Vidyantina Heppy A, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Sukirdi, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Sujarwo, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Somo Arifianto, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Djoko Waluyo, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Bambang Mudjiyanto, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Amri Dunan, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Ahmad Budi Setiawan, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Yan Andriariza, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Lidya Agustina, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Cut Medika Z, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Vience Mutiara, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Dita Kusumasari, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Diah Kusumawati, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Riva'atul Adaniah Wahab, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Cut Medika Zellatifanny, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Olivia Nelar, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Vience Mutiara Rumata, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Onny Rafizan, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Karman, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/><br/>
                                     <b>Technical Support Chair:</b>
-                                    <br/>Bima Hariaputra, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Badar Agung Nugroho, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Onny Rafizan, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Willy Wize Ananda Zen, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Rieka Mustika, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Iwan Setyawan, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Feki Pangestu Wijaya, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Bayu Yudo Numboro, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/><br/>
                                     <b>Publication Chair:</b>
-                                    <br/>Somo Arifianto, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Emyana Ruth Eritha S., Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Aldhino Anggorosesar, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Kasmad, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Olivia Nelar, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Faiq Wildana, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Christiany Juditha, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Maulia Jayantina Islami, Ministry of Communications and Informatics RI (Indonesia)
-                                    <br/>Yan Andriariza, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Riza Azmi, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/><br/>
                                     <b>Financial Team:</b>
-                                    <br/>Agnes Irwanti, IEEE Indonesia Section (Indonesia)
-                                    <br/>Argasi Susenna, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Fitri Widyaningsih, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Argasi Susenna, Ministry of Communications and Informatics RI (Indonesia)
                                     <br/>Indah Maharani, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Echi Pramitasari, Ministry of Communications and Informatics RI (Indonesia)
+                                    <br/>Annisa Muthia Yana, Ministry of Communications and Informatics RI (Indonesia)
                                 </div>
                             </li>
                         </ul>
@@ -987,8 +927,178 @@
             </div>
         </div>
     </section>
-    <!-- Registration -->
-    
+
+    <!-- Registration 1 -->
+    <!-- <section id="registration1" class="section-registration section grey-bg border-top-grey">
+        <div class="container">
+            <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
+                <div class="col-md-8 col-lg-5 text-center">
+                    <h2 class="font-alt">Presenter Registration</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="feature-box m-0px-b">
+                        <h4 class="font-alt" style="text-align: center;">Registration Fee</h4>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <th> </th>
+                                    <th>Foreign Participant</th>
+                                    <th>Local Participant</th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th>Professional</th>
+                                        <td>USD 325/ USD 300*</td>
+                                        <td>IDR 3,000,000/ IDR 2,500,000*</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Student</th>
+                                        <td>USD 275/ USD 250*</td>
+                                        <td>IDR 2,500,000/ IDR 2,250,000*</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Non-Presenter</th>
+                                        <td>USD 100</td>
+                                        <td>IDR 1,000,000</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            *) For IEEE member
+                        </div>
+                        <br/><br/>
+                        <form action="/" method="post">
+                            {{ csrf_field() }}
+                            
+                            <h4 class="font-alt" style="text-align: center;">New Registration</h4>
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input class="form-control" type="text" name="name" value="{{ old('name') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="institution">Institution</label>
+                                <input class="form-control" type="text" name="institution" value="{{ old('institution') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="occupation">Occupation</label>
+                                <input class="form-control" type="text" name="occupation" value="{{ old('occupation') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="address">Address</label>
+                                <textarea class="form-control" name="address" rows="3"></textarea>
+                            </div>
+                            <br><hr><br>
+                            <h4 class="font-alt" style="text-align: center;">Login</h4>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input class="form-control" type="email" name="email" value="{{ old('email') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password</label>
+                                <input class="form-control" type="password" name="password">
+                            </div>
+                            <br><hr><br>
+                            <h4 class="font-alt" style="text-align: center;">ATTENTION ! Complete the items below ONLY if you wish to present a paper !</h4>
+                            <div class="form-group">
+                                <label for="title">Title</label>
+                                <input class="form-control" type="text" name="title" value="{{ old('title') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="abstract">Abstract</label>
+                                <textarea class="form-control" name="abstract" rows="7" value="{{ old('title') }}"></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <input class="btn btn-primary" type="submit" value="Send">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- Registration 2 -->
+    <!-- <section id="registration2" class="section-registration section grey-bg border-top-grey">
+        <div class="container">
+            <div class="row justify-content-center title-section m-60px-b sm-m-40px-b">
+                <div class="col-md-8 col-lg-5 text-center">
+                    <h2 class="font-alt">Participant (Non Presenter) Registration</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="feature-box m-0px-b">
+                        <h4 class="font-alt" style="text-align: center;">Registration Fee</h4>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <th> </th>
+                                    <th>Foreign Participant</th>
+                                    <th>Local Participant</th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th>Professional</th>
+                                        <td>USD 325/ USD 300*</td>
+                                        <td>IDR 3,000,000/ IDR 2,500,000*</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Student</th>
+                                        <td>USD 275/ USD 250*</td>
+                                        <td>IDR 2,500,000/ IDR 2,250,000*</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Non-Presenter</th>
+                                        <td>USD 100</td>
+                                        <td>IDR 1,000,000</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            *) For IEEE member
+                        </div>
+                        <br/><br/>
+                        <form action="/" method="post">
+                            {{ csrf_field() }}
+                            
+                            <h4 class="font-alt" style="text-align: center;">New Registration</h4>
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input class="form-control" type="text" name="name" value="{{ old('name') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="institution">Institution</label>
+                                <input class="form-control" type="text" name="institution" value="{{ old('institution') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="occupation">Occupation</label>
+                                <input class="form-control" type="text" name="occupation" value="{{ old('occupation') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="address">Address</label>
+                                <textarea class="form-control" name="address" rows="3"></textarea>
+                            </div>
+                            <br><hr><br>
+                            <h4 class="font-alt" style="text-align: center;">Login</h4>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input class="form-control" type="email" name="email" value="{{ old('email') }}">
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password</label>
+                                <input class="form-control" type="password" name="password">
+                            </div>
+
+                            <div class="form-group">
+                                <input class="btn btn-primary" type="submit" value="Send">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    -->
     
 </main>
 <!-- Main End -->
